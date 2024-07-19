@@ -1,0 +1,82 @@
+{
+  "profesores": [
+    {
+      "nombre": "Carlos",
+      "apellido": "Sinuco",
+      "materias": [
+        {
+          "nombre": "Node"
+        },
+        {
+          "nombre": "Python"
+        },
+        {
+          "nombre": "React"
+        },
+        {
+          "nombre": "Github"
+        }
+      ],
+      "id": "ca6b"
+    },
+    {
+      "id": "0c70",
+      "nombre": "Json",
+      "apellido": "Solarte",
+      "materias": [
+        {
+          "nombre": "Node"
+        },
+        {
+          "nombre": "JavaScript"
+        },
+        {
+          "nombre": "React"
+        },
+        {
+          "nombre": "Angular"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Andres",
+      "apellido": "Vanegas",
+      "promedio": 3,
+      "id": "215c"
+    },
+    {
+      "nombre": "Pedro",
+      "apellido": "BuenDia",
+      "promedio": 4.5,
+      "id": "9807"
+    },
+    {
+      "id": "c249",
+      "nombre": "Jesus",
+      "apellido": "Nazareth",
+      "promedio": 5
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Node",
+      "duracion": "2 semanas",
+      "dificultad": "suave",
+      "id": "f4ce"
+    },
+    {
+      "nombre": "Python",
+      "duracion": "1 mes",
+      "dificultad": "paila",
+      "id": "87c2"
+    },
+    {
+      "nombre": "Github",
+      "duracion": "1 semana",
+      "dificultad": "facil",
+      "id": "f822"
+    }
+  ]
+}

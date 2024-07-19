@@ -1,0 +1,14 @@
+{
+  "name": "1.proyecto-json-server",
+  "version": "1.0.0",
+  "description": "peque;o server ",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Carlos",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1"
+  }
+}
